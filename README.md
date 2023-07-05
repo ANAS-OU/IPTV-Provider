@@ -3,5 +3,5 @@ This repository is a comprehensive IPTV Provider website template built to simpl
 
 Technologies used: HTML / CSS / JAVASCRIPT
 
-![Javatpoint](./Assets/preview.png)
+![Template Preview](./Assets/preview.png)
 Preview
