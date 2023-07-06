@@ -4,4 +4,5 @@ This repository is a comprehensive IPTV Provider website template built to simpl
 Technologies used: HTML / CSS / JAVASCRIPT
 
 ![Template Preview](./Assets/preview.png)
-Preview
+
+Display by visiting this link: https://anas-ou.github.io/IPTV-Provider/
